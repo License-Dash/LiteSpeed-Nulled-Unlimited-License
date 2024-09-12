@@ -1,3 +1,6 @@
+[![LicenseDash Logo](https://docs.licensedash.com/assets/img/lite1.png)](https://licensedash.com)
+
+
 **Install and Update Your LiteSpeed License with Ease**
 
 Ensure seamless management of your LiteSpeed license with LicenseDash. Follow these simple steps for installation and updates:
@@ -21,6 +24,9 @@ bash
 Copy code
 
 `lic_litespeed`
+
+[![LicenseDash Logo](https://licensedash.com/wp-content/uploads/2024/06/licenseDash-logo-SM.png)](https://licensedash.com)
+
 
 **Why Choose LicenseDash for Your LiteSpeed Licensing Needs?**
 
